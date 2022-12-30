@@ -13,7 +13,7 @@ function getLatestVersionName() {
 const config = {
   title: 'Be a smart Kintone developer with Kintone UI Component.',
   tagline: 'It will support your UI customization project.',
-  url: '',
+  url: 'https://nmanhit.github.io/',
   baseUrl: '/docv2/',
   onBrokenLinks: 'warn', // throw
   onBrokenMarkdownLinks: 'warn',
