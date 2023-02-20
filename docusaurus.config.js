@@ -14,7 +14,7 @@ const config = {
   title: 'Be a smart Kintone developer with Kintone UI Component.',
   tagline: 'It will support your UI customization project.',
   url: 'https://nmanhit.github.io/',
-  baseUrl: '/docv2/',
+  baseUrl: '/',
   onBrokenLinks: 'warn', // throw
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -181,10 +181,9 @@ const config = {
         respectPrefersColorScheme: false,
       },
       algolia: {
-        appId: 'PR3SWJDZEU',
-        apiKey: '074eaea538cd75b1536ce0ef1e70a73a',
-        indexName: 'kintone',
-        contextualSearch: false,
+        appId: 'XMXUX7ON9R',
+        apiKey: '8d3130c23ce20ee1d2eb5d6998aa62ac',
+        indexName: 'prod-d25ngpoesyywaw-amplifyapp',
       },
     }),
 };
