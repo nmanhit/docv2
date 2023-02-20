@@ -9,10 +9,9 @@ original_id: button
 
 The Button component allows the user to create and display buttons.
 
-<div class="sample-container" id="button">
-  <div id="sample-container__components"></div>
-</div>
-<script src="/js/samples/desktop/button.js"></script>
+import { ButtonComponent } from "@site/static/js/samples/desktop/button.js"
+
+<ButtonComponent />
 
 ---
 

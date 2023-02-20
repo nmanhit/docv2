@@ -33,6 +33,7 @@ const config = {
     locales: ['en', 'ja'],
   },
   scripts: [
+    "https://unpkg.com/kintone-ui-component/umd/kuc.min.js"
     // {
     //   src: '/ja/js/gtmHeader.js',
     //   async: true,
