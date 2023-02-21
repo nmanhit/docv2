@@ -14,7 +14,7 @@ const config = {
   title: 'Be a smart Kintone developer with Kintone UI Component.',
   tagline: 'It will support your UI customization project.',
   url: 'https://nmanhit.github.io/',
-  baseUrl: '/',
+  baseUrl: '/docv2/',
   onBrokenLinks: 'warn', // throw
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
